@@ -1,4 +1,4 @@
-<h2 align="center">Sobre mim!</h2>
+<h2 align="Left">Sobre mim!</h2>
 
 ###
 
