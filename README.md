@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, meu nome é André Nascimento e neste perfil, compartilho meus projetos voltados a Desenvolvimento de software voltado a WEB e análise de dados e estatística usando python, sql e de vez em quando em outras linguagens só para não perder o ritmo!</p>
+<p align="left">Olá, meu nome é André Nascimento e neste perfil, compartilho meus projetos voltados a análise de dados e estatística e desenvolvimento de software voltado a WEB usando python, sql e de vez em quando em outras linguagens só para não perder o ritmo!</p>
 
 ###
 
